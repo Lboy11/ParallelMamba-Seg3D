@@ -11,5 +11,5 @@ download [BraTS18](https://www.med.upenn.edu/sbia/brats2018/registration.html) a
 
 ## training 
 run `sh cli/train.sh`
-## training
+## eval
 run `sh cli/test.sh`
